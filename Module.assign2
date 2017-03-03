@@ -1,0 +1,43 @@
+<!doctype.html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta ...>
+<title>"Our Menu"</title>
+</head>
+<style>
+*{
+   box-sizzing:border-box;
+   margin:0;
+   padding:0;
+  }
+ #box{
+ background-color:grey;
+ padding:20px 30px 20px 30px
+ border: 5px solid black;
+ }
+ </style>
+ <body>
+ <h1>"Our Menu"</h1>
+ <div class="container-fluid">
+ <div class="row">
+ <div class="col-md-4">
+ <p> {
+      <h2>"Chicken"</h2>
+  <"LOPEM ISLUM IDJJ JDNDNNCNCN fghhjjhbjhjjyjhh junnbbnbnh">
+  }</p></div>
+  </div>
+ <div class="col-md-4">
+ <p> {
+      <h2>"Beef"</h2>
+  <"LOPEM ISLUM IDJJ JDNDNNCNCN fghhjjhbjhjjyjhh jujjjjnnbb">
+  }</p></div>
+  </div>
+  <div class="col-md-4">
+ <p> {
+      <h2>"Sushi"</h2>
+  <"LOPEM ISLUM IDJJ JDNDNNCNCN fghhjjhbjhjjyjhh jujjjjnnbb">
+  }</p></div>
+  </div>
+  </div>
+  </body>
